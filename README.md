@@ -1,0 +1,2 @@
+# SpringCloudConfig
+use for springapplication
